@@ -1,2 +1,1 @@
-# ShadowLife
-ShadowLife game for studying OOP
+For project 2. Test commit.
